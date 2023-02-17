@@ -1,0 +1,7 @@
+pandas
+matplotlib
+pretty_html_table
+pandas-datareader
+db-dtypes
+git+https://github.com/edire/ddb.git
+git+https://github.com/edire/demail.git

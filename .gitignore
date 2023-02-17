@@ -1,0 +1,4 @@
+*.png
+app/*.png
+.env
+/volume
