@@ -5,3 +5,4 @@ pandas-datareader
 db-dtypes
 git+https://github.com/edire/ddb.git
 git+https://github.com/edire/demail.git
+git+https://github.com/edire/dlogging.git
